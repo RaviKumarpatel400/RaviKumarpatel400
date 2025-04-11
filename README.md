@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_23-2150389746.jpg)
+![logo](https://media.licdn.com/dms/image/v2/D5616AQH66uXCFWK2RA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1711968744065?e=2147483647&v=beta&t=QUF_vdaDE8soFkwUH8zsQMeincgz7bbIzgUl4YFKoa8)
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
